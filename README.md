@@ -1,2 +1,2 @@
 # Accessible-Task-Manager
-Using Vanilla js to build an simple accessible task manager app  
+Using Vanilla js to build an simple accessible task manager app using WCAG
